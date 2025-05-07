@@ -1,0 +1,40 @@
+Mercadona,Madrid,Maquillaje en Polvo,8.99,40,COSMETIC,Maybelline
+Mercadona,Madrid,Pan Integral,1.20,150,FOOD,20260515
+Mercadona,Madrid,Perfume Fresco,12.99,30,COSMETIC,Adidas
+Mercadona,Madrid,Crema Hidratante,5.99,60,COSMETIC,Nivea
+Mercadona,Madrid,Champú Reparador,4.50,90,COSMETIC,Pantene
+Mercadona,Madrid,Yogur Natural,0.50,300,FOOD,20260420
+Mercadona,Madrid,Leche Semidesnatada,0.90,200,FOOD,20260310
+Mercadona,Madrid,FileTE de Pollo,3.50,80,FOOD,20260125
+Mercadona,Madrid,Manzanas Golden,1.50,120,FOOD,20260228
+Mercadona,Madrid,Gel de Ducha,2.99,120,COSMETIC,Dove
+Carrefour,Barcelona,Plátanos,1.20,150,FOOD,20260315
+Carrefour,Barcelona,Arroz Integral,1.80,100,FOOD,20260612
+Carrefour,Barcelona,Mascarilla Facial,3.99,110,COSMETIC,L'Oréal
+Carrefour,Barcelona,Salmón Ahumado,4.99,60,FOOD,20260410
+Carrefour,Barcelona,Atún en Lata,1.10,180,FOOD,20260722
+Carrefour,Barcelona,Desodorante Roll-On,2.50,130,COSMETIC,Rexona
+Carrefour,Barcelona,Loción Corporal,6.50,70,COSMETIC,Nivea
+Carrefour,Barcelona,Queso Cheddar,2.50,90,FOOD,20260530
+Carrefour,Barcelona,Rimel Volumen,7.50,50,COSMETIC,Rimmel
+Carrefour,Barcelona,Jabón de Manos,1.99,200,COSMETIC,Dove
+Lidl,Valencia,Tomates,1.50,120,FOOD,20260214
+Lidl,Valencia,Aceite de Oliva,3.99,90,FOOD,20260930
+Lidl,Valencia,Espuma de Afeitar,2.50,150,COSMETIC,Gillette
+Lidl,Valencia,Filete de Ternera,6.50,50,FOOD,20260325
+Lidl,Valencia,Pasta Integral,1.00,200,FOOD,20260805
+Lidl,Valencia,Perfume Elegante,14.99,25,COSMETIC,Calvin Klein
+Lidl,Valencia,Gel Fijador,4.99,80,COSMETIC,Syoss
+Lidl,Valencia,Champú Anticaspa,3.50,100,COSMETIC,Head & Shoulders
+Lidl,Valencia,Crema Antiarrugas,9.99,40,COSMETIC,L'Oréal
+Lidl,Valencia,Huevos,1.80,180,FOOD,20260120
+Día,Zaragoza,Champú Nutritivo,3.50,100,COSMETIC,Herbal Essences
+Día,Zaragoza,Cereales Integrales,2.00,120,FOOD,20260815
+Día,Zaragoza,Base de Maquillaje,7.99,50,COSMETIC,MAC
+Día,Zaragoza,Manzanas Fuji,1.80,130,FOOD,20260330
+Día,Zaragoza,Perfume Floral,11.50,30,COSMETIC,Chanel
+Día,Zaragoza,Crema Solar,8.99,60,COSMETIC,LaRoche-Posay
+Día,Zaragoza,Gel de Baño,2.20,150,COSMETIC,Nivea
+Día,Zaragoza,Filete de Cerdo,3.80,70,FOOD,20260405
+Día,Zaragoza,Leche Entera,0.95,180,FOOD,20260620
+Día,Zaragoza,Mantequilla,1.50,100,FOOD,20260510

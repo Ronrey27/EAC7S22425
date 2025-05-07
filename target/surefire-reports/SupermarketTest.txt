@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: SupermarketTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! -- in SupermarketTest
+SupermarketTest.getProduct_ProductExists_ReturnsProduct -- Time elapsed: 0.004 s <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	The method applyDiscountToProduct(String, float) is undefined for the type Supermarket
+	The method applyDiscountToProduct(String, float) is undefined for the type Supermarket
+	The method applyDiscountToProduct(String, float) is undefined for the type Supermarket
+
+	at SupermarketTest.<init>(SupermarketTest.java:211)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

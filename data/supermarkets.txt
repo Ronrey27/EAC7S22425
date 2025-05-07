@@ -1,0 +1,50 @@
+Mercadona,Madrid,-3.7037899,40.4167747
+Carrefour,Barcelona,2.1589899,41.3887901
+Lidl,Valencia,-0.3762880,39.4699059
+Aldi,Sevilla,-5.9844589,37.3890915
+Día,Zaragoza,-0.8865930,41.6488228
+Eroski,Bilbao,-2.9349849,43.2630119
+Alcampo,Málaga,-4.4212651,36.7212601
+Consum,Murcia,-1.1306540,37.9922409
+Supercor,Palma de Mallorca,2.6501601,39.5695992
+El Corte Inglés,Las Palmas de Gran Canaria,-15.4134302,28.1235504
+Hipercor,Alicante,-0.4814900,38.3451691
+Ahorramás,Valladolid,-4.7237201,41.6529503
+BM Supermercados,Córdoba,-4.7793832,37.8881760
+Condis,Vigo,-8.7226410,42.2313576
+Simply,Gijón,-5.6644602,43.5357285
+Caprabo,L'Hospitalet de Llobregat,2.1003201,41.3596687
+Bonpreu,Tarragona,1.2486100,41.1186600
+Supersol,Marbella,-4.8857398,36.5100708
+Covirán,Granada,-3.5985570,37.1773376
+Masymas,Oviedo,-5.8507600,43.3623390
+Dani,Santander,-3.8226199,43.4626389
+Froiz,A Coruña,-8.3965797,43.3623390
+Gadis,Salamanca,-5.6644602,40.9649696
+Hiber,Pamplona,-1.6432300,42.8125305
+LaPlaza,Logroño,-2.4455500,42.4627190
+MaxiDia,Badajoz,-6.9701400,38.8786011
+Sánchez Romero,PozuelodeAlarcón,-3.8138299,40.4354706
+Supermercados Piedra,León,-5.5707598,42.5987244
+Suma,Albacete,-1.8590980,38.9976501
+Uvesco,Vitoria-Gasteiz,-2.6721699,42.8467178
+Veritas,Terrassa,2.0086300,41.5607605
+Dialprix,Elche,-0.7010700,38.2621803
+CashFresh,Jaén,-3.7902801,37.7655983
+SuperSol,Fuengirola,-4.6243501,36.5417786
+Supermercados Llobet,Reus,1.1067899,41.1548195
+Supermercados Sorli,Viladecans,2.0142701,41.3166695
+Supermercados Intermarché,Huelva,-6.9447198,37.2614098
+Supermercados Spar,Santiago de Compostela,-8.5447197,42.8805199
+Supermercados Plus,Burgos,-3.6966801,42.3410606
+Supermercados El Árbol,Almería,-2.4597399,36.8401413
+Supermercados Familia,Cádiz,-6.2958498,36.5297813
+Supermercados Hiber,Tudela,-1.6041700,42.0619698
+Supermercados IFA,Aranjuez,-3.6022301,40.0320511
+Supermercados La Despensa,CastellóndelaPlana,-0.0414700,39.9862099
+Supermercados Mas,Mataró,2.4447200,41.5380592
+Supermercados Sabeco,Algeciras,-5.4534702,36.1271896
+Supermercados Trebol,Ourense,-7.8647199,42.3366890
+Supermercados Vidal,Gandia,-0.1833300,38.9666710
+Supermercados BM,Lugo,-7.5697198,43.0098000
+Supermercados El Jamón,Torrevieja,-0.6822200,37.9784508
