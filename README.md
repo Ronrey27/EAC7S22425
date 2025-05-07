@@ -2,6 +2,7 @@
 SUPERMERCADOS EN JAVA
 Esta aplicación la creamos a lo largo del segundo semestre del CFGS en Desarrollo de Aplicaciones Web (DAW).
 RESULTADOS DE APRENDIZAJE
+
 1 Identifica los conceptos de herencia, superclase y subclase.
 
 2 Utiliza modificadores para bloquear y forzar la herencia de clases y métodos.
